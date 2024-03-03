@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Power BI**
 
 - 📫 How to reach me **vanshikamakol282@gmail.com**
 
